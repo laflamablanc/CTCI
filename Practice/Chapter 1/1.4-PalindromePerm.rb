@@ -20,7 +20,7 @@ def palindrome(string)
 
 end
 
-p palindrome('racecar')
-p palindrome('raceecar')
-p palindrome('racecare')
-p palindrome('racecarr')
+p palindrome('racecar')#True
+p palindrome('raceecar')#True
+p palindrome('racecare')#True
+p palindrome('racecarr')#False
